@@ -1,0 +1,43 @@
+.banner-container2 {
+    position: relative;
+    text-align: left;
+    color: black;
+    padding-top:18px;
+    /* background-image: url(../../Assets/images/celebration-holiday-present.jpg); */
+  }
+  
+  .banner-image {
+    width:fit-content;
+    height: 850px;
+    object-fit: cover;
+  }
+  
+  .banner-content {
+    position: absolute;
+    top: 150px;
+    right: 120px;
+    padding: 20px;
+    background-color: transparent;
+  }
+  
+  .banner-content h1 {
+    font-size: 36px;
+    font-weight: 800;
+    color: black;
+    margin-bottom: 10px;
+  }
+  
+  .banner-content p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .banner-button {
+    color: white;
+    background-color: 'red';
+    padding: 10px 25px;
+    border-radius: 5;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
